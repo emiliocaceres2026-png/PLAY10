@@ -7,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 from webdriver_manager.firefox import GeckoDriverManager
 
 LINKS = [
-    "https://casino.virtualsoft.tech/game/play/?gameid=70514&mode=real&provider=undefined&lan=es&partnerid=0&token=0P14627473Pnfug9350n2j8eh2m4yy&balance=0&currency=PEN&userid=14579709&isMobile=false"
+    "https://casino.virtualsoft.tech/game/play/?gameid=70514&mode=real&provider=undefined&lan=es&partnerid=0&token=0P14627473Pxxtg2x80jr3hptva5z0&balance=0&currency=PEN&userid=14579709&isMobile=false"
     ]
 
 PLANTILLA_BASE = "Quieres ganar Mas de 2mil en 45 minutos Escribeme al Whatsapp😍⚓+𝟓𝟐 𝟕𝟕𝟏𝟗𝟑𝟐𝟓𝟏𝟐𝟕 ⚓𝚝elegram⚓ 𝙰𝚅𝙸𝙰𝚃𝙾𝚁𝙿𝙺𝙰 sin cobros adelantados⚓⛺⚓⛳⚓😘VAR_3"
